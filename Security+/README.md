@@ -8,7 +8,6 @@ This folder contains my hands-on security labs, notes, and exercises completed w
 
 - **Certification:** CompTIA Security+ (SY0-701)
 - **Goal:** Develop a working knowledge of IT security, including threats, risk management, cryptography, and secure network architecture.
-- **Study Period:** November 2025 – December 2025
 
 ---
 
@@ -51,14 +50,6 @@ Each lab includes:
 - 🔍 **Analysis**
 - 🧠 **Reflections**
 
----
-
-## 🏁 Progress Tracker
-
-| Date       | Lab/Topic                  | Status  |
-|------------|----------------------------|---------|
-| 2025-11-10 | Malware Analysis Basics    | ✅ Done |
-| 2025-11-15 | Port Scanning with Nmap    | ⏳ In Progress |
 
 ---
 
