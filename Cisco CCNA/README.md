@@ -8,7 +8,6 @@ This folder documents my hands-on CCNA lab exercises and Packet Tracer projects 
 
 - **Certification:** Cisco CCNA (200-301)
 - **Goal:** Gain practical networking experience in routing, switching, IP addressing, and network services.
-- **Study Period:** January 2026 – March 2026
 
 ---
 
@@ -50,14 +49,6 @@ Each lab includes:
 - 📸 **Screenshots**
 - 🧠 **Reflections**
 
----
-
-## 🏁 Progress Tracker
-
-| Date       | Lab/Topic             | Status  |
-|------------|-----------------------|---------|
-| 2026-01-03 | VLAN Configuration    | ✅ Done |
-| 2026-01-07 | Static Routing Setup  | ⏳ In Progress |
 
 ---
 
