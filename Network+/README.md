@@ -8,7 +8,6 @@ This folder contains my hands-on labs, notes, and exercises completed while stud
 
 - **Certification:** CompTIA Network+ (N10-009)
 - **Goal:** Master the fundamentals of wired and wireless networking, troubleshooting, and network security.
-- **Study Period:** October 2025
 
 ---
 
@@ -51,15 +50,6 @@ Each lab includes:
 - 🛠️ **Steps Taken**
 - 📸 **Screenshots**
 - 🧠 **Reflections**
-
----
-
-## 🏁 Progress Tracker
-
-| Date       | Lab/Topic                   | Status  |
-|------------|-----------------------------|---------|
-| 2025-10-06 | Subnetting Practice         | ✅ Done |
-| 2025-10-10 | OSI Layer Drilldown         | ⏳ In Progress |
 
 ---
 
