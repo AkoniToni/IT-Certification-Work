@@ -54,14 +54,6 @@ Each lab includes:
 - 📸 **Screenshots**
 - 🧠 **Reflections**
 
----
-
-## 🏁 Progress Tracker
-
-| Date       | Lab/Topic                    | Status  |
-|------------|------------------------------|---------|
-| 2025-08-01 | Installed Windows VM         | ✅ Done |
-| 2025-08-04 | Troubleshooting Boot Errors  | ✅ Done |
 
 ---
 
