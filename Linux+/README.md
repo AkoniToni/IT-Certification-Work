@@ -8,7 +8,6 @@ This folder contains labs, scripts, and exercises I completed while preparing fo
 
 - **Certification:** CompTIA Linux+ (XK0-005)
 - **Goal:** Learn how to install, configure, and troubleshoot Linux systems and perform basic administrative tasks.
-- **Study Period:** April 2026
 
 ---
 
@@ -49,14 +48,6 @@ Each lab includes:
 - 🛠️ **Steps Taken**
 - 🧠 **Reflections**
 
----
-
-## 🏁 Progress Tracker
-
-| Date       | Lab/Topic                   | Status  |
-|------------|-----------------------------|---------|
-| 2026-04-02 | User Management with CLI    | ✅ Done |
-| 2026-04-04 | Configure Apache Web Server | ⏳ In Progress |
 
 ---
 
