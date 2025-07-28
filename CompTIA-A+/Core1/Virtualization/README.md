@@ -1,4 +1,4 @@
-# 🖥️ Step 1: Virtualization & OS Deployment
+# 🖥️ Virtualization & OS Deployment
 
 ## ✅ Objective
 This lab demonstrates my ability to work with virtualization technologies
@@ -54,4 +54,4 @@ Each VM is configured with two types of virtual network adapters:
 
 ---
 
-➡️ [Next lab: Storage & Partitioning](../02-Storage/)
+➡️ [Next lab: Storage & Partitioning](../Storage/)
