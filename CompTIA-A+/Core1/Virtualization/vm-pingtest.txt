@@ -1,0 +1,76 @@
+
+*** Windows 10 VM Ping Test ***
+
+Pinging 8.8.8.8 with 32 bytes of data:
+Reply from 8.8.8.8: bytes=32 time=319ms TTL=255
+Reply from 8.8.8.8: bytes=32 time=197ms TTL=255
+Reply from 8.8.8.8: bytes=32 time=201ms TTL=255
+Reply from 8.8.8.8: bytes=32 time=168ms TTL=255
+
+Ping statistics for 8.8.8.8:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 168ms, Maximum = 319ms, Average = 221ms
+
+Pinging google.com [74.125.69.100] with 32 bytes of data:
+Reply from 74.125.69.100: bytes=32 time=164ms TTL=255
+Reply from 74.125.69.100: bytes=32 time=171ms TTL=255
+Reply from 74.125.69.100: bytes=32 time=166ms TTL=255
+Reply from 74.125.69.100: bytes=32 time=114ms TTL=255
+
+Ping statistics for 74.125.69.100:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 114ms, Maximum = 171ms, Average = 153ms
+
+Pinging 192.168.56.101 with 32 bytes of data:
+Reply from 192.168.56.101: bytes=32 time<1ms TTL=64
+Reply from 192.168.56.101: bytes=32 time<1ms TTL=64
+Reply from 192.168.56.101: bytes=32 time<1ms TTL=64
+Reply from 192.168.56.101: bytes=32 time<1ms TTL=64
+
+Ping statistics for 192.168.56.101:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 0ms, Maximum = 0ms, Average = 0ms
+
+
+*** Ubuntu Linux Ping Test ***
+
+PING 8.8.8.8 (8.8.8.8) 56(84) bytes of data.
+64 bytes from 8.8.8.8: icmp_seq=1 ttl=255 time=219 ms
+64 bytes from 8.8.8.8: icmp_seq=2 ttl=255 time=176 ms
+64 bytes from 8.8.8.8: icmp_seq=3 ttl=255 time=142 ms
+64 bytes from 8.8.8.8: icmp_seq=4 ttl=255 time=98.3 ms
+64 bytes from 8.8.8.8: icmp_seq=5 ttl=255 time=159 ms
+64 bytes from 8.8.8.8: icmp_seq=6 ttl=255 time=115 ms
+
+--- 8.8.8.8 ping statistics ---
+6 packets transmitted, 6 received, 0% packet loss, time 5062ms
+rtt min/avg/max/mdev = 98.293/151.469/218.876/39.628 ms
+
+
+PING google.com (173.194.193.113) 56(84) bytes of data.
+64 bytes from iu-in-f113.1e100.net (173.194.193.113): icmp_seq=1 ttl=255 time=106 ms
+64 bytes from iu-in-f113.1e100.net (173.194.193.113): icmp_seq=2 ttl=255 time=389 ms
+64 bytes from iu-in-f113.1e100.net (173.194.193.113): icmp_seq=3 ttl=255 time=194 ms
+64 bytes from iu-in-f113.1e100.net (173.194.193.113): icmp_seq=4 ttl=255 time=146 ms
+64 bytes from iu-in-f113.1e100.net (173.194.193.113): icmp_seq=5 ttl=255 time=265 ms
+64 bytes from iu-in-f113.1e100.net (173.194.193.113): icmp_seq=6 ttl=255 time=219 ms
+
+--- google.com ping statistics ---
+6 packets transmitted, 6 received, 0% packet loss, time 5007ms
+rtt min/avg/max/mdev = 106.346/219.870/389.158/90.999 ms
+
+
+PING 192.168.56.100 (192.168.56.100) 56(84) bytes of data.
+64 bytes from 192.168.56.100: icmp_seq=1 ttl=255 time=0.772 ms
+64 bytes from 192.168.56.100: icmp_seq=2 ttl=255 time=0.457 ms
+64 bytes from 192.168.56.100: icmp_seq=3 ttl=255 time=0.447 ms
+64 bytes from 192.168.56.100: icmp_seq=4 ttl=255 time=0.284 ms
+64 bytes from 192.168.56.100: icmp_seq=5 ttl=255 time=1.22 ms
+64 bytes from 192.168.56.100: icmp_seq=6 ttl=255 time=1.00 ms
+
+--- 192.168.56.100 ping statistics ---
+6 packets transmitted, 6 received, 0% packet loss, time 5077ms
+rtt min/avg/max/mdev = 0.284/0.697/1.221/0.332 ms
